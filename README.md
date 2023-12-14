@@ -36,7 +36,10 @@ key_binary = "1010"
 # Enkripsi ECB
 encrypted_result = encrypt_ecb(plaintext_hex, key_binary)
 
-# Hasil Enkripsi
+# Hasil Enkripsi 
+
 print("Hasil Enkripsi ECB:", encrypted_result)
 ```
+
+[!]ss1.png
 
