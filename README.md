@@ -41,5 +41,5 @@ encrypted_result = encrypt_ecb(plaintext_hex, key_binary)
 print("Hasil Enkripsi ECB:", encrypted_result)
 ```
 
-[!ss1.png](https://github.com/robiyanto20/ECB-Enskripsi-Kriptografi/blob/master/ss1.png)
+![]ss1.png
 
