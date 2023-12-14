@@ -40,10 +40,3 @@ encrypted_result = encrypt_ecb(plaintext_hex, key_binary)
 print("Hasil Enkripsi ECB:", encrypted_result)
 ```
 
-## Catatan
-
-Pastikan untuk mengonfigurasi dan mengimpor fungsi `encrypt_ecb` sesuai dengan struktur direktori proyek Anda.
-
----
-
-Dalam README ini, kita menggambarkan penggunaan fungsi, langkah-langkah yang dilakukan dalam proses enkripsi ECB, serta memberikan contoh penggunaan fungsi tersebut. Pastikan untuk mengganti informasi seperti contoh penggunaan dan deskripsi fungsi sesuai dengan proyek sebenarnya.
